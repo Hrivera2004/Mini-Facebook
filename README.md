@@ -3,3 +3,5 @@ A group project simulating Facebook's core features (accounts, posts, real-time 
 Steps for launching: 
   1. Ensure all the libraries are included [this includes the jar files already in the repository along with javafx].
   2. After that you can launch and utilize the application.
+
+Partener in proyect: https://github.com/sheyllacortez10
